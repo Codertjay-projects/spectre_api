@@ -1,5 +1,5 @@
 ### Spectre API
-
+The doc to spectre https://developers.spectre.ai/#method_Flow2
 This uses the spectre api to subscribe to the market data sub.
 
 First we had to login with selenium to get the code
